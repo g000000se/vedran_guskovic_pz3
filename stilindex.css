@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS document */
+
+body {
+  background-image: url("pozadina.jpeg");
+}
+
+h1 {
+  text-align: center;
+  font-size : 240px;
+  color: #FCFCFC;
+  letter-spacing: 5px;
+  text-shadow: 10px 10px 10px black, 0px 0px 30px black;
+  
+}
+
+h2 {
+	text-align: center;
+	font-size: 35px;
+	color: #FCFCFC;
+	letter-spacing: 5px;
+	text-shadow: 5px 5px 5px black, 0 0 25px black, 0 0 25px black;
+
+}
+
+p {
+	text-align: center;
+	font-size: 40px;
+	color: #FCFCFC;
+	letter-spacing: 5px;
+	text-shadow: 1px 1px 1px white, 0 0 5px black, 0 0 10px black;
+	
+}
+
+ul {
+	text-align: center;
+
+
+.notbold{
+    font-weight:normal
+}
